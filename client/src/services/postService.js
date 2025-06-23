@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "/api/posts/";
+const API_URL = import.meta.env.VITE_API_BASE_URL;
 
 // Fungsi untuk mengambil semua postingan
 const getAllPosts = async (token) => {
