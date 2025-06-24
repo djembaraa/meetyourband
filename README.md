@@ -13,11 +13,11 @@ A full-stack social media platform for musicians to find bandmates, collaborate,
   
 | Feature | Demo |
 |---|---|
-| **User Profile & Post Feed** | ![User Profile Feed](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif2.gif) |
-| **Google & Standard Login** | ![Authentication Flow](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif3.gif) |
-| **Create & Upload Media** | ![Create Post with Media](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif4.gif) |
-| **Like & Comment Interaction** | ![Like and Comment](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif5.gif) |
-| **Edit & Delete Posts** | ![Edit and Delete](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif6.gif) |
+| **User Profile & Post Feed** | ![User Profile Feed](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif6.gif) |
+| **Google & Standard Login** | ![Authentication Flow](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif.gif) |
+| **Create & Upload Media** | ![Create Post with Media](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif2.gif) |
+| **Like & Comment Interaction** | ![Like and Comment](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif3.gif) |
+| **Edit & Delete Posts** | ![Edit and Delete](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif4.gif) |
 
 </details>
 
