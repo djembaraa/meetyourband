@@ -6,7 +6,7 @@ A full-stack social media platform for musicians to find bandmates, collaborate,
 
 ### Live Demo & Features
 
-![MeetYourBand Live Demo](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif.gif)
+![MeetYourBand Live Demo](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif2.gif)
 
 <details>
 <summary><strong>Click to see more features in action</strong></summary>
