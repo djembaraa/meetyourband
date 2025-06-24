@@ -6,18 +6,18 @@ A full-stack social media platform for musicians to find bandmates, collaborate,
 
 ### Live Demo & Features
 
-![MeetYourBand Live Demo](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif2.gif)
+![MeetYourBand Live Demo](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif.gif)
 
 <details>
 <summary><strong>Click to see more features in action</strong></summary>
   
 | Feature | Demo |
 |---|---|
-| **User Profile & Post Feed** | ![User Profile Feed](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif6.gif) |
-| **Google & Standard Login** | ![Authentication Flow](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif.gif) |
-| **Create & Upload Media** | ![Create Post with Media](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif2.gif) |
-| **Like & Comment Interaction** | ![Like and Comment](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif3.gif) |
-| **Edit & Delete Posts** | ![Edit and Delete](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif4.gif) |
+| **User Profile & Post Feed** | ![User Profile Feed](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif2.gif) |
+| **Google & Standard Login** | ![Authentication Flow](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif3.gif) |
+| **Create & Upload Media** | ![Create Post with Media](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif4.gif) |
+| **Like & Comment Interaction** | ![Like and Comment](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif5.gif) |
+| **Edit & Delete Posts** | ![Edit and Delete](https://qrswqbfuolwuqvfsonia.supabase.co/storage/v1/object/public/asset//djembaraa%20web%20gif6.gif) |
 
 </details>
 
